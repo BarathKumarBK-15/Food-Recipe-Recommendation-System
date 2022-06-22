@@ -1,2 +1,2 @@
 # Food-Recipe-Recommendation-System
-Food recipe recommendation system using knowledge garphs
+Food recipe recommendation system using knowledge graphs
